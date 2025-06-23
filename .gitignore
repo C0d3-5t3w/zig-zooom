@@ -1,0 +1,3 @@
+zig-out
+clibs.c
+.zig-cache

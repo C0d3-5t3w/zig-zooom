@@ -1,0 +1,17 @@
+.{
+    .name = .zig_zooom,
+
+    .version = "0.0.0",
+
+    .fingerprint = 0xbd23d797a54357d0,
+
+    .minimum_zig_version = "0.14.1",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
